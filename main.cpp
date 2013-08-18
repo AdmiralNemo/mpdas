@@ -1,3 +1,4 @@
+#include <_config.h>
 #include "mpdas.h"
 
 void
